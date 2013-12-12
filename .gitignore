@@ -1,3 +1,10 @@
+# Do't need the HTML versions in git
+*.html
+
+# Notebook stuff
+.ipynb*
+
+# Python stuff
 *.py[cod]
 
 # C extensions
