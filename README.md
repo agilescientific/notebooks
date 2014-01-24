@@ -23,4 +23,3 @@ Ideas for more notebooks...
 - AVO
 - Inversion
 - Log attributes
-- 
