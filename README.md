@@ -9,6 +9,7 @@ Links to NBViewer versions:
 - [To make a wedge](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/To_make_a_wedge.ipynb)
 - [To make up microseismic](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/To_make_up_microseismic.ipynb)
 - [Filtering horizons](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/Filtering_horizons.ipynb)
+- [Mt St Helens](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/Mt_St-Helens.ipynb)
 
 Ideas for more notebooks...
 ===========================
