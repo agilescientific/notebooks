@@ -5,11 +5,13 @@ Some IPython Notebooks on geophysics and seismic interpretation.
 
 Links to NBViewer versions:
 
-- [To make a wavelet](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/To_make_a_wavelet.ipynb)
-- [To make a wedge](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/To_make_a_wedge.ipynb)
-- [To make up microseismic](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/To_make_up_microseismic.ipynb)
-- [Filtering horizons](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/Filtering_horizons.ipynb)
-- [Mt St Helens](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/Mt_St-Helens.ipynb)
+- [To make a wavelet](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/To_make_a_wavelet.ipynb) — [blog post](http://www.agilegeoscience.com/journal/2013/12/10/to-plot-a-wavelet.html)
+- [To make a wedge](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/To_make_a_wedge.ipynb) — [blog post](http://www.agilegeoscience.com/journal/2013/12/12/to-make-a-wedge.html)
+- [To make up microseismic](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/To_make_up_microseismic.ipynb) — [blog post](http://www.agilegeoscience.com/journal/2013/12/18/to-make-up-microseismic.html)
+- [Filtering horizons](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/Filtering_horizons.ipynb) — [blog post](http://www.agilegeoscience.com/journal/2014/3/6/relentlessly-practical.html)
+- [Mt St Helens](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/Mt_St-Helens.ipynb) — [blog post](http://www.agilegeoscience.com/journal/2014/5/6/how-much-rock-was-erupted-from-mt-st-helens.html)
+- [NMO model](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/NMO_model.ipynb) — [blog post](http://www.agilegeoscience.com/journal/2014/12/11/the-race-for-useful-offsets.html)
+- [Laying out a seismic survey](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/Laying_out_a_seismic_survey.ipynb) — [blog post](http://agilegeoscience.com/journal/2014/12/17/laying-out-a-seismic-survey.html)
 
 Ideas for more notebooks...
 ===========================
@@ -19,7 +21,6 @@ Ideas for more notebooks...
 - Classification
 - Fourier and Heisenberg paper
 - Cepstrum paper
-- Acquisition stuff... Geometry and cost
 - Zoeppritz and approximations
 - AVO
 - Inversion
