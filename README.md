@@ -13,6 +13,7 @@ Links to NBViewer versions:
 - [Slicing seismic](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/Slicing_seismic.ipynb) — [blog post](http://www.agilegeoscience.com/journal/2014/6/16/slicing-seismic-arrays.html)
 - [NMO model](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/NMO_model.ipynb) — [blog post](http://www.agilegeoscience.com/journal/2014/12/11/the-race-for-useful-offsets.html)
 - [Laying out a seismic survey](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/Laying_out_a_seismic_survey.ipynb) — [blog post](http://agilegeoscience.com/journal/2014/12/17/laying-out-a-seismic-survey.html)
+- [Binning a seismic survey](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/Binning_a_seismic_survey.ipynb) — [blog post](http://agilegeoscience.com/blog/2015/1/8/it-goes-in-the-bin)
 
 Ideas for more notebooks...
 ===========================
