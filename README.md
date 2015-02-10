@@ -14,7 +14,7 @@ Links to NBViewer versions:
 - [NMO model](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/NMO_model.ipynb) — [blog post](http://www.agilegeoscience.com/journal/2014/12/11/the-race-for-useful-offsets.html)
 - [Laying out a seismic survey](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/Laying_out_a_seismic_survey.ipynb) — [blog post](http://agilegeoscience.com/journal/2014/12/17/laying-out-a-seismic-survey.html)
 - [Binning a seismic survey](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/Binning_a_seismic_survey.ipynb) — [blog post](http://agilegeoscience.com/blog/2015/1/8/it-goes-in-the-bin)
-- [Query the Rock Property Catalog](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/Query_the_RPC.ipynb] — blog post coming soon
+- [Query the Rock Property Catalog](http://nbviewer.org/github/agile-geoscience/notebooks/blob/master/Query_the_RPC.ipynb) — blog post coming soon
 
 Ideas for more notebooks...
 ===========================
