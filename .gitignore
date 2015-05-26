@@ -2,6 +2,7 @@
 *.html
 
 # Same for images
+images
 *.png
 *.PNG
 
