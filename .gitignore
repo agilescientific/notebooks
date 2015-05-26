@@ -1,5 +1,9 @@
-# Do't need the HTML versions in git
+# Don't need the HTML versions in git
 *.html
+
+# Same for images
+*.png
+*.PNG
 
 # Notebook stuff
 .ipynb*
