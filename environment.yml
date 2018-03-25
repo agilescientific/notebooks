@@ -4,5 +4,7 @@ dependencies:
   - scipy
   - matplotlib
   - seaborn
+  - sympy
   - pip:
+    - bruges
     - welly
